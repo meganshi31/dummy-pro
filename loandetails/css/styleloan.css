@@ -1,0 +1,24 @@
+body
+{
+    align-items: center;
+    font-family: bold italic;
+}
+h1
+{
+    text-align: center;
+    color: green;
+}
+table
+{
+    border-collapse:collapse;
+    width: 100%;
+    border-width: 3px;
+}
+td
+{
+    width: 100px;
+    padding: 10px;
+    text-align: left;
+    border-width: 2px;
+}
+&
